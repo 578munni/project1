@@ -1,0 +1,21 @@
+.container{
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(38, 134, 9);
+  padding: 20px;
+}
+#count{
+  font-size: 25px;
+  color: rgb(2, 2, 56);
+}
+button{
+  font-size: 20px;
+  padding: 12px 24px;
+  margin: 12px;
+  border: 5px solid rgb(29, 25, 7);
+}
+button:hover{
+  opacity: 0.5;
+  cursor: not-allowed;
+}
